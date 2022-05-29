@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/aftabgithub1/static/css/main.1fd699ec.css",
+    "main.js": "/aftabgithub1/static/js/main.77fa2c0d.js",
+    "index.html": "/aftabgithub1/index.html",
+    "main.1fd699ec.css.map": "/aftabgithub1/static/css/main.1fd699ec.css.map",
+    "main.77fa2c0d.js.map": "/aftabgithub1/static/js/main.77fa2c0d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1fd699ec.css",
+    "static/js/main.77fa2c0d.js"
+  ]
+}

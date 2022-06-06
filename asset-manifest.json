@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/aftabgithub1/static/css/main.7e7c71df.css",
+    "main.css": "/aftabgithub1/static/css/main.5354b895.css",
     "main.js": "/aftabgithub1/static/js/main.94ba3ed3.js",
     "static/media/Roboto-Regular.ttf": "/aftabgithub1/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
     "static/media/Roboto-Black.ttf": "/aftabgithub1/static/media/Roboto-Black.cf56c1b149d0a5e8d7c6.ttf",
@@ -8,11 +8,11 @@
     "static/media/JosefinSans-VariableFont_wght.ttf": "/aftabgithub1/static/media/JosefinSans-VariableFont_wght.762df0b3ada8d7e38f03.ttf",
     "static/media/aftab_pp_540px.jpg": "/aftabgithub1/static/media/aftab_pp_540px.59a43d9dca8d00dacf9e.jpg",
     "index.html": "/aftabgithub1/index.html",
-    "main.7e7c71df.css.map": "/aftabgithub1/static/css/main.7e7c71df.css.map",
+    "main.5354b895.css.map": "/aftabgithub1/static/css/main.5354b895.css.map",
     "main.94ba3ed3.js.map": "/aftabgithub1/static/js/main.94ba3ed3.js.map"
   },
   "entrypoints": [
-    "static/css/main.7e7c71df.css",
+    "static/css/main.5354b895.css",
     "static/js/main.94ba3ed3.js"
   ]
 }

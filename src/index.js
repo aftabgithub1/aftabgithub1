@@ -25,7 +25,7 @@ createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <BrowserRouter>
       <Routes>
-        <Route path='/aftabwebdev/' element={<App />}>
+        <Route path='/aftabgithub1/' element={<App />}>
           <Route index element={<Home />} />
           <Route path='works' element={<Works />} >
             <Route index element={<Overview />} />
@@ -36,7 +36,7 @@ createRoot(document.getElementById('root')).render(
           </ Route>
           <Route path='contact' element={<Contact />} />
         </Route>
-        <Route path='/aftabwebdev/admin' element={<AdminPanel /> }>
+        <Route path='/aftabgithub1/admin' element={<AdminPanel /> }>
           <Route index element={<Dashboard /> }/>
         </Route>
       </Routes>

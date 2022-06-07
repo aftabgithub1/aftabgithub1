@@ -31,7 +31,8 @@ const Works = () => {
         </ul>
       </div>
       <div className='content' onClick={sidebarRemove}>
-        <span className='sidebar-toggle-btn' onClick={sidebarToggle}><FaBars /></span>
+        <div className='sidebar-toggle-btn' onClick={sidebarToggle}>
+          <span><FaBars /></span> <span> List</span></div>
         <Outlet />
       </div>
     </div>

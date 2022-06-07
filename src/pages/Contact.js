@@ -5,15 +5,13 @@ const Contact = () => {
   tabTitle('Contact')
   
   return (
-    <div class='page'>
-      <h1 className='page-title'>Contact</h1>
-      <p style={{fontSize: "1.2rem"}}>
-        Email: aftab2060@gmail.com
-      </p>
-
-      <p style={{fontSize: "1.2rem"}}>
-        Phone No: +8801720390878 (Bangladesh)
-      </p>
+    <div id='contact' class='page'>
+      <address>
+        <h1 className='page-title'>Contact</h1>
+        <p><strong>Email:</strong> <a href="mailto:aftab2060@gmail.com">aftab2060@gmail.com</a></p>
+        <p><strong>Phone No:</strong> <a href="tel:+8801720390878">+8801720390878</a></p>
+        <p><strong>Mailing Address:</strong> 22/Kha/2, Dakeshwari Road, Ploashi, Cawkbazaar, Dhaka-1211</p>
+      </address>
     </div>
   )
 }
